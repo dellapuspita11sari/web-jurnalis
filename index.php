@@ -58,7 +58,7 @@
                 <img src="assets/img/blog/blog-1.jpg" alt="" class="img-fluid">
               </div>
 
-              <p class="post-category">Politics</p>
+              <p class="post-category">Politic</p>
 
               <h2 class="title">
                 <a href="blog-details.html">Dolorum optio tempore voluptas dignissimos</a>
